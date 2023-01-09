@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working for **[Hotspotty](https://hotspotty.net/)**
+- 🔭 I’m currently working for myself.
 
 - 🌱 I’m currently learning **Science-Mathematics**
 
