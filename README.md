@@ -4,13 +4,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working for myself.
+- 🔭 I’m currently working for **Slide Labs**.
 
-- 🌱 I’m currently learning **Science-Mathematics**
+- 🌱 I’m currently learning **engineering**
 
 - 📫 How to reach me **van.renterghem.jelle@gmail.com**
 
-- ⚡ Fun fact **I like to eat, I like to game, I like crypto, have a 3d printer and love Formula 1.**
+- ⚡ Fun fact **I like to eat, I like web3, I have a 3d printer and love Formula 1.**
 
 ## 🚀 Languages and Tools:
 
@@ -21,6 +21,10 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
+    <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
 </p>
 
 <br/>
@@ -46,7 +50,13 @@
 <br/>
 
 ## My story:
-When I was little, I loved playing with legos. A year later, I started fantasizing about starting my own Lego store. Another year later, I began to feel like I was good with computers. I helped my teachers solve problems and eventually, I got into programming. My first program was a "Hello World" script I had written. That's when I knew this was just the beginning. When I was 14 years old I started learning C# and developing games in Unity. But that hype, unfortunately, died down a bit and I saw more potential in crypto and bot development. That's how I got into the company: Emrit. Emrit taught me how to work with a team, I was able to bring out my programming skills, I learned how to work under pressure and all that at my own pace. I know I've only just started and entrepreneurship is clearly in my blood. I'm happy for all the opportunities I get at this age and I hope there are many more adventures to come.
+From a young age, I've always had a love for building and creating. Lego was my go-to toy as a kid, and I spent hours creating structures and imaginary worlds. As I got older, I started to develop an interest in technology, particularly computers, and programming.
+
+My first foray into programming was a "Hello World" script that I wrote when I was just starting out. From there, I delved deeper into the world of coding, learning C# and developing games in Unity. While I enjoyed game development, I soon realized that my true passion lay in the exciting and rapidly-evolving field of crypto and bot development.
+
+This led me to join the team at Emrit, where I've had the opportunity to develop my skills and work collaboratively with others. Working at Emrit has given me a taste of entrepreneurship and has allowed me to learn how to work under pressure while maintaining my own pace.
+
+I'm excited about what the future holds and am eager to continue exploring my interests in programming and entrepreneurship. With each new project and challenge, I know I'll continue to grow and develop my skills, and I can't wait to see where this journey takes me next.
 
 ## Connect with me:
 <p align="left">
